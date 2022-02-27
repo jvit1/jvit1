@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm John. Thanks for visiting my profile!
+
+#### About me
+
+#### Connect with me!
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jvithoulkas#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jvithoulkas#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 <!--
 **jvit1/jvit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
