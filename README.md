@@ -12,5 +12,5 @@
 ✔️Tableau | Power BI | Excel
 
 ## 🤝 Connect with me!
-- [LinkedIn](www.linkedin.com/in/jvithoulkas)
+- [LinkedIn](https://www.linkedin.com/in/jvithoulkas)
 - [Codewars](https://www.codewars.com/users/jvit1)
