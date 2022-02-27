@@ -1,11 +1,20 @@
-### Hi, I'm John. Thanks for visiting my profile!
+# Hi, I'm John. Thanks for visiting my profile!
 
-#### About me
+## ✏️ About me
+- Recent graduate from the University of Virginia
+    - Economics and Data Analytics (2021)
+- Currently working as a Research Analyst
+- Hoping to become a SQL and Python master over the next few years!
 
-#### Connect with me!
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/jvithoulkas#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jvithoulkas#gh-dark-mode-only)
-&nbsp;&nbsp;
+## 📊 My skills
+✔️Python | R | SQL
+
+✔️Tableau | Power BI | Excel
+
+## 🤝 Connect with me!
+- [LinkedIn](www.linkedin.com/in/jvithoulkas)
+- [Codewars](https://www.codewars.com/users/jvit1)
+
 
 <!--
 **jvit1/jvit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
